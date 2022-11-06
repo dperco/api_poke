@@ -1,4 +1,6 @@
 {
+ 
+  
   "name": "api",
   "version": "1.0.0",
   "description": "",
@@ -19,6 +21,11 @@
     "cookie-parser": "^1.4.5",
     "dotenv": "^8.2.0",
     "express": "^4.17.1",
+<<<<<<< HEAD
+=======
+    "pg":"8.8.0",
+  
+>>>>>>> 8fa177bbb1bbcdba87813385d60673becb2f3ce8
     "morgan": "^1.10.0",
     "pg": "^8.8.0",
     "sequelize": "^6.3.5"
@@ -31,3 +38,6 @@
     "supertest-session": "^4.1.0"
   }
 }
+  
+ 
+ 
